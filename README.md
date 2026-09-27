@@ -11,7 +11,7 @@
 * **Frontend:** HTML5, CSS3, React JS
 * **Backend:** Flask (Python)
 * **Database:** MySQL
-* **Tools & Environment:** Git, GitHub, JSON Server, RESTful APIs (Axios)
+* **Tools & Environment:** GitHub, JSON Server
 
 ---
 
@@ -25,6 +25,6 @@
 
 ### 📫 Contact Links
 
-* 🌐 **Portfolio:** [ramkumar.dev](https://ramkumar.dev)[cite: 1]
+* 🌐 **Portfolio:** [ramkumar.dev](https://portfolio-iota-nine-80.vercel.app)[cite: 1]
 * 💼 **LinkedIn:** [linkedin.com/in/ramkumar7010](https://linkedin.com/in/ramkumar7010/)[cite: 1]
 * 📧 **Email:** [ramkumar20057010@gmail.com](mailto:ramkumar20057010@gmail.com)[cite: 1]
