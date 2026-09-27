@@ -27,4 +27,4 @@
 
 * 🌐 **Portfolio:** [ramkumar.dev](https://portfolio-iota-nine-80.vercel.app)[cite: 1]
 * 💼 **LinkedIn:** [linkedin.com/in/ramkumar7010](https://linkedin.com/in/ramkumar7010/)[cite: 1]
-* 📧 **Email:** [ramkumar20057010@gmail.com](mailto:ramkumar20057010@gmail.com)[cite: 1]
+* 📧 **Email:** [ramkumar20057010@gmail.com](mailto:ramkumar20057010@gmail.com)
